@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For Stepper-A4988
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+A4988				KEYWORD1	A4988
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+enable				KEYWORD2
+disable				KEYWORD2
+doStep				KEYWORD2
+isEnabled			KEYWORD2
+up					KEYWORD2
+down				KEYWORD2
+setStepsPerRound	KEYWORD2
+setStepDelay		KEYWORD2
+setRPM				KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NONE				LITERAL1
+FULL				LITERAL1
+HALF				LITERAL1
+QUARTER				LITERAL1
+EIGTHTH				LITERAL1
+SIXTEENTH			LITERAL1
+
